@@ -1,0 +1,11 @@
+name: my-env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - bokeh
+  - python=3.7
