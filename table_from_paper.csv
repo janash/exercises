@@ -1,0 +1,219 @@
+no.,name of compound,exptl,CODESSA-PRO calcd ,TRAIL (Type 1) calcd ,TRAIL (Type 2) calcd 
+1,carbon tetrachloride,-12.56,-12.43,-12.56,-12.56
+2,chloroform,-8.16,-11.09,-8.16,-8.16
+3,methanol,2.8,4.91,1.05,0.89
+4,acetonitrile,1.54,3.79,1.54,1.54
+5,acetaldehyde,3.65,0.21,1.58,2.81
+6,ethanol,0.17,-0.06,-1.63,-0.74
+7,"1,2-ethanediol",1.08,0.14,0.25,
+8,acetone,-2.4,-4.67,-2.26,-1.74
+9,1-propanol,-3.26,-4.96,-5.20,-4.27
+10,2-propanol,-3.6,-6.16,-4.76,-3.76
+11,"1,3-propanediol",-3.82,-3.50,-0.49,-1.00
+12,tetrahydrofuran,-8.39,-6.86,-9.45,-8.39
+13,cyclobutanol,-6.74,-7.65,-11.63,-6.74
+14,1-butanol,-6.99,-8.31,-7.68,-7.14
+15,2-butanol,-6.79,-9.29,-7.06,-6.43
+16,2-methyl-1-propanol,-9.25,-9.63,-9.21,-9.19
+17,2-methyl-2-propanol,-9.59,-9.84,-8.32,-8.16
+18,"1,4-butanediol",-3.65,-6.79,-2.96,-3.87
+19,diethylamine,-7.77,-8.81,-7.77,-7.77
+20,cyclopentanol,-11.87,-9.74,-16.08,-12.40
+21,1-pentanol,-10.29,-10.19,-10.15,-10.01
+22,2-pentanol,-8.51,-11.03,-9.53,-9.30
+23,3-pentanol,-7.71,-11.54,-9.36,-9.11
+24,2-methyl-1-butanol,-11.87,-12.22,-10.41,-11.20
+25,2-merthyl-2-butanol,-10.9,-12.86,-9.35,-9.98
+26,3-methyl-1-butanol,-12.84,-11.87,-10.59,-11.40
+27,3-methyl-2-butanol,-10.96,-12.49,-9.80,-10.49
+28,"2,2-dimethyl-1-propanol",-15.48,-11.03,-13.65,-15.49
+29,"1,5-pentanediol",-6.97,-8.07,-5.43,-6.74
+30,"1,4-dibromobenzene",-16.98,-17.64,-16.00,-16.04
+31,"1,4-diiodobenzene",-18.12,-16.52,-19.75,-19.81
+32,"3,5-dibromophenol",-14.61,-15.95,-16.50,-16.53
+33,"3,5-dichlorophenol",-11.82,-12.86,-13.31,-13.27
+34,1-chloro-4-nitrobenzene,-12.27,-12.62,-13.64,-13.51
+35,fluorobenzene,-11.18,-13.44,-10.46,-10.48
+36,bromobenzene,-14.28,-16.47,-14.21,-14.21
+37,iodobenzene,-16.71,-14.41,-16.08,-16.09
+38,3-fluorophenol,-9.7,-11.56,-10.96,-10.97
+39,4-fluorophenol,-9.87,-11.20,-10.96,-10.97
+40,3-chlorophenol,-13.01,-11.05,-13.12,-13.07
+41,4-chlorophenol,-14.92,-10.00,-13.12,-13.07
+42,3-bromophenol,-14.33,-14.35,-14.71,-14.69
+43,4-bromophenol,-15.12,-13.39,-14.71,-14.69
+44,3-iodophenol,-16.73,-14.92,-16.58,-16.57
+45,4-iodophenol,-17,-14.84,-16.58,-16.57
+46,nitrobenzene,-11.64,-12.63,-13.45,-13.30
+47,4-nitrophenol,-14.76,-11.57,-13.95,-13.79
+48,benzene,-12.72,-12.36,-12.42,-12.37
+49,phenol,-11.28,-13.05,-12.92,-12.86
+50,hydroquinone,-11.72,-11.15,-13.42,-13.34
+51,4-nitroaniline,-14.18,-11.21,-12.17,-12.12
+52,aniline,-9.13,-10.91,-11.14,-11.19
+53,sulfanilamide,-15.79,-10.82,-15.79,-15.79
+54,cyclohexanol,-15.27,-11.80,-16.01,-14.42
+55,1-hexanol,-13.31,-12.32,-12.63,-12.88
+56,2-hexanol,-11.3,-14.07,-12.01,-12.17
+57,2-methyl-2-pentanol,-11.36,-13.97,-11.82,-12.85
+58,3-methyl-3-pentanol,-12.27,-14.72,-10.38,-11.80
+59,4-methyl-2-pentanol,-11.64,-12.76,-12.44,-13.56
+60,"3,3-dimethyl-2-butanol",-15.7,-13.78,-12.97,-15.94
+61,"1,6-hexanediol",-9.65,-10.02,-7.91,-9.61
+62,benzonitrile,-12.74,-9.01,-10.52,-10.55
+63,benzothiazole,-13.59,-13.60,,
+64,4-nitrobenzoic acid,-13.36,-13.91,-11.40,-12.57
+65,benzaldehyde,-10.16,-13.15,-8.79,-9.41
+66,benzoic acid,-12.13,-13.73,-10.37,-11.64
+67,4-hydroxybenzaldehyde,-9.99,-11.81,-9.29,-9.90
+68,4-hydroxybenzoic acid,-12.54,-12.20,-10.87,-12.13
+69,benzyl chloride,-13.95,-12.98,,
+70,toluene,-11.93,-12.22,-12.47,-12.71
+71,benzyl alcohol,-9.76,-12.31,-13.01,-11.56
+72,anisole,-13.24,-13.84,-12.85,-12.67
+73,m-cresol,-11.3,-13.10,-12.97,-13.19
+74,p-cresol,-13.68,-13.11,-12.97,-13.19
+75,4-methoxyphenol,-12.61,-13.19,-13.35,-13.16
+76,3-methoxyphenol,-12.05,-13.23,-13.35,-13.16
+77,4-hydroxybenzyl alcohol,-12.34,-12.19,-13.51,-12.05
+78,hydrochlorothiazide,-10.04,-10.02,,
+79,N-methylaniline,-12.07,-12.00,-12.07,-12.07
+80,1-butylimidazole,-12.5,-13.08,,
+81,1-heptanol,-16.27,-14.17,-15.10,-15.75
+82,phenylacetylene,-13.48,-9.80,,
+83,thianaphthene,-18.44,-15.86,-18.44,
+84,4-fluorophenyl acetate,-12.05,-11.68,-10.67,-10.64
+85,3-fluorophenyl acetate,-10.9,-12.93,-10.67,-10.64
+86,4-chlorophenyl acetate,-14.27,-11.37,-12.82,-12.74
+87,3-chlorophenyl acetate,-13.93,-11.18,-12.82,-12.74
+88,4-bromophenyl acetate,-15.3,-13.90,-14.42,-14.36
+89,3-bromophenyl acetate,-15.24,-14.52,-14.42,-14.36
+90,4-iodophenyl acetate,-17.13,-14.52,-16.29,-16.25
+91,3-iodophenyl acetate,-17.53,-15.93,-16.29,-16.25
+92,4-nitrophenyl acetate,-12.16,-13.69,-13.66,-13.46
+93,acetophenone,-12.96,-12.58,-12.22,-12.72
+94,phenyl acetate,-11.99,-13.29,-12.63,-12.53
+95,methyl benzoate,-14.28,-14.84,-15.13,-14.53
+96,3-hydroxyacetophenone,-11.76,-11.94,-12.72,-13.20
+97,4-hydroxyacetophenone,-12.44,-11.66,-12.72,-13.20
+98,acetoanilide,-12.54,-9.81,-12.54,
+99,p-xylene,-13.58,-12.87,-12.52,-13.04
+100,ethylbenzene,-14.77,-16.29,-15.81,-15.18
+101,phenetole,-14.2,-12.82,-13.43,-13.65
+102,2-phenylethanol,-12.27,-14.11,-11.09,-11.91
+103,3-ethylphenol,-14.84,-16.79,-16.31,-15.67
+104,4-ethylphenol,-15.37,-16.48,-16.31,-15.67
+105,4-ethoxyphenol,-13.3,-14.14,-13.93,-14.14
+106,3-ethoxyphenol,-13.41,-13.44,-13.93,-14.14
+107,"3,5-dimethoxyphenol",-13.36,-13.75,-13.78,-13.46
+108,N-ethylaniline,-13.33,-12.90,-13.33,-13.33
+109,"N,N-dimethylaniline",-13.48,-12.70,-13.48,-13.48
+110,barbital,-10.19,-11.52,-11.01,-9.27
+111,cyclooctanol,-18.84,-16.31,-17.15,-19.15
+112,1-octanol,-18.1,-15.76,-17.57,-18.62
+113,2-octanol,-17.87,-16.60,-16.95,-17.91
+114,quinoline,-12.1,-15.50,-12.10,-12.10
+115,3-cyanophenyl acetate,-8.51,-11.39,-10.73,-10.70
+116,4-hydroxycinnamic acid,-16.15,-14.55,-16.67,-16.53
+117,ethyl benzoate,-15.59,-16.57,-15.71,-15.51
+118,4′-hydroxypropiophenone,-15.01,-13.92,-15.66,-13.26
+119,3′-hydroxypropiophenone,-14.9,-14.77,-15.66,-13.26
+120,p-tolyl acetate,-14.21,-15.17,-12.68,-12.86
+121,3-methylphenyl acetate,-12.61,-15.54,-12.68,-12.86
+122,4-methoxyphenyl acetate,-13.99,-15.10,-13.06,-12.83
+123,4-propylphenol,-20.26,-17.59,-18.78,-18.54
+124,3-propylphenol,-18.72,-18.01,-18.78,-18.54
+125,4-isopropylphenol,-20.43,-19.09,-20.08,-19.53
+126,3-isopropylphenol,-19.64,-18.87,-20.08,-19.53
+127,4-isopropoxyphenol,-16.33,-17.58,-14.95,-16.50
+128,2-norbornaneacetate,-20.5,-18.68,-22.18,-20.49
+129,1-benzylimidazole,-14.92,-15.48,,
+130,m-methylcinnamic acid,-16.75,-17.39,-16.23,-16.37
+131,4-ethylphenyl acetate,-16.15,-17.82,-16.01,-15.34
+132,3-ethylphenyl acetate,-15.3,-17.33,-16.01,-15.34
+133,4-ethoxyphenyl acetate,-14.5,-15.92,-13.64,-13.81
+134,3-ethoxyphenyl acetate,-14.21,-17.04,-13.64,-13.81
+135,allobarbital,-11.32,-11.26,-11.32,
+136,4-n-butylphenol,-22.66,-19.98,-21.25,-21.41
+137,3-n-butylphenol,-21.46,-20.07,-21.25,-21.41
+138,3-isobutylphenol,-24.03,-19.77,-21.69,-22.79
+139,4-sec-butylphenol,-23.86,-20.22,-21.28,-21.55
+140,3-sec-butylphenol,-23.18,-20.06,-21.28,-21.55
+141,4-tert-butylphenol,-26.03,-19.73,-24.28,-24.78
+142,3-tert-butylphenol,-25.18,-20.37,-24.28,-24.78
+143,menadion,-12.95,-14.96,-12.95,
+144,sulfapyridine,-15.43,-14.57,-15.43,-15.43
+145,sulfamonomethoxine,-14.16,-12.16,-14.16,-14.16
+146,sulfisoxazole,-13.25,-14.22,,
+147,4-n-propylphenyl acetate,-17.98,-18.67,-18.49,-18.21
+148,3-n-propylphenyl acetate,-18.72,-18.81,-18.49,-18.21
+149,4-isopropylphenyl acetate,-16.44,-19.52,-19.79,-19.20
+150,3-isopropylphenyl acetate,-19.18,-19.95,-19.79,-19.20
+151,4-n-amylphenol,-23.92,-21.28,-23.73,-24.28
+152,4-tert-amylphenol,-26.83,-21.81,-24.22,-25.94
+153,carbutamide,-13.08,-14.81,-13.08,
+154,pentobarbital,-17.22,-16.53,-15.06,-16.40
+155,amobarbital,-17.53,-17.53,-18.87,-19.27
+156,thiopental,-18.71,-19.78,,
+157,dibenzofuran,-16.95,-16.46,,
+158,dibenzothiophene,-19.87,-17.30,-19.87,
+159,phenazine,-13.76,-17.93,,
+160,thianthrene,-20.38,-17.27,,
+161,carbazole,-13.93,-16.78,-13.93,
+162,phenoxazine,-15.36,-16.75,,
+163,phenothiazine,-15.59,-16.30,,
+164,furosemide,-10.19,-10.94,,
+165,phenobarbital,-18.37,-11.07,-17.77,-17.54
+166,sulfisomidine,-12.02,-13.69,-12.39,-12.45
+167,sulfamethomidine,-13.31,-12.89,-12.75,-12.66
+168,sulfadimethoxine,-12.89,-12.81,-13.08,-13.11
+169,4-n-butylphenyl acetate,-20.66,-20.87,-20.96,-21.08
+170,3-n-butylphenyl acetate,-20.89,-20.17,-20.96,-21.08
+171,3-isobutylphenyl acetate,-21.86,-21.01,-21.40,-22.47
+172,4-tert-butylphenyl acetate,-21.98,-21.00,-23.99,-24.45
+173,cyclobarbital,-15.47,-15.87,-16.07,-16.30
+174,hexobarbital,-17.6,-16.99,-17.00,-16.77
+175,1-adamantaneacetate,-24.69,-23.51,-24.94,-24.69
+176,acridine,-13.3,-18.72,-13.30,-13.30
+177,phenanthridine,-14.67,-16.39,-14.67,-14.67
+178,xanthene,-15.47,-14.98,-15.47,
+179,N-phenylanthranilic acid,-16.53,-19.16,-16.53,
+180,mephobarbital,-18.05,-12.93,-18.65,-18.88
+181,4-n-amylphenyl acetate,-21.69,-20.86,-23.44,-23.95
+182,flufenamic acid,-17.7,-15.63,,
+183,meclofenamic acid,-15.27,-18.02,,
+184,nitrazepam,-11.26,-16.13,-11.26,-11.26
+185,flurbiprofen,-21.07,-16.54,-21.18,-20.69
+186,sulfaphenazole,-13.42,-15.60,,
+187,bendroflumethiazide,-10.83,-13.38,,
+188,mefenamic acid,-14.24,-19.93,-14.24,
+189,acetohexamide,-16.77,-16.29,-16.77,
+190,fludiazepam,-13.31,-11.67,-13.20,-13.69
+191,nimetazepam,-9.89,-14.36,-10.00,-9.51
+192,fenbufen,-15.02,-15.40,-14.91,-15.40
+193,ketoprofen,-16.31,-15.67,-18.66,-18.01
+194,medazepam,-13.72,-15.20,-13.72,-13.72
+195,progabide,-14.48,-12.65,-14.48,
+196,griseofulvin,-8.39,-19.78,,
+197,tolnaftate,-21.9,-15.80,,
+198,prostacyclin,-16.79,-20.13,,
+199,triamcinolone,-19.27,-17.94,-18.44,
+200,cortisone,-19.1,-20.02,-19.77,-19.57
+201,prednisolone,-20.3,-19.34,-21.27,-20.58
+202,hydrocortisone,-20.58,-22.22,-20.37,-20.01
+203,corticosterone,-22,-22.52,-22.00,-22.00
+204,dexamethasone,-20.84,-19.24,-21.67,-20.84
+205,betamethasone,-21.31,-20.11,-21.31,
+206,paramethasone,-19.44,-19.19,-20.05,-19.44
+207,cortisone-21-acetate,-20.65,-18.86,-18.40,-20.18
+208,prednisolone-21-acetate,-21.47,-19.35,-19.89,-21.19
+209,hydrocortisone-21-acetate,-20.05,-19.71,-18.99,-20.62
+210,fluocinolone acetonide,-19.85,-17.81,-19.24,-19.85
+211,triamcinolone acetonide,-20.03,-20.69,-20.64,-20.03
+212,spironolactone,-25.34,-24.66,,
+213,dehydrocholic acid,-19.29,-19.90,-18.48,-19.29
+214,chenodeoxycholic acid,-24.9,-25.28,-26.12,-25.31
+215,ursodeoxycholic acid,-25.71,-25.53,-26.12,-25.31
+216,cholic acid,-19.97,-23.57,-20.26,-19.97
+217,hydrocortisone-17-butyrate,-18.43,-21.03,-21.29,
+218,cinnarizine,-20.77,-17.70,,
